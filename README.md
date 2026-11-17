@@ -138,4 +138,3 @@ Open your browser at `http://localhost:3000` to interact with RetailIQ.
 - [x] Market Basket Association Rules (Lift, Confidence, Support)
 - [x] Multi-format export: CSV, Multi-sheet Excel (.xlsx), and Printable PDF dossier
 - [x] RBAC: Retailer, Data Analyst, Administrator with instant demo switcher
-- [x] Interactive VTU Mini Project Viva Examination Modal with top 10 Q&A
