@@ -1,0 +1,6 @@
+{
+  "name": "RetailIQ – Smart Customer Analytics",
+  "description": "Intelligent retail customer segmentation, RFM analysis, and 30-day purchase prediction using machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
